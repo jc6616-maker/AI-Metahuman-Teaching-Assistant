@@ -1,0 +1,7 @@
+Demo Video (Private Link):
+https://drive.google.com/drive/folders/1PbogGEKalbBldeTVVI0cDDGvgePOrzVA?usp=drive_link
+
+This video demonstrates:
+- AI-driven dialogue generation
+- Emotion-aware response adaptation
+- Synchronized Metahuman facial expressions and gestures
